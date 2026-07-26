@@ -14,6 +14,7 @@
 
 *Creating technology that blends intelligence, creativity and user experience.*
 <br>
+<br>
 
 # 📊 GitHub Stats
 
@@ -23,6 +24,7 @@
 
 Every repository reflects curiosity<br>
 Every commit represents progress
+<br>
 <br>
 
 # 👩🏻‍💻Tech Stack: 
@@ -37,6 +39,7 @@ Every commit represents progress
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+<br>
 <br>
 
 
