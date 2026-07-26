@@ -4,6 +4,7 @@
 👩‍💻 Developer by choice<br>
 🎨 Designer by obsession
 <br>
+<br>
 
 # 🚀 I Love Building
 
@@ -40,7 +41,6 @@ Every commit represents progress
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
 <br>
 <br>
-
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mahathi_ig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahathi-muthu-a20b2a312/$0) 
