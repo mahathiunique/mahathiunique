@@ -3,7 +3,6 @@
 🎓 Student by attendance<br>
 👩‍💻 Developer by choice<br>
 🎨 Designer by obsession
-
 <br>
 
 # 🚀 I Love Building
