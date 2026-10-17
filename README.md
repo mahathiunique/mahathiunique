@@ -1,10 +1,15 @@
-# ✨ About Me
+<div align="center">
 
-🎓 Student by attendance<br>
-👩‍💻 Developer by choice<br>
-🎨 Designer by obsession
-<br>
-<br>
+<img src="./assets/mahathi.gif" width="100%" alt="Mahathi's 3D animated avatar" />
+
+# ✨Mahathi M✨
+https://github.com/user-attachments/assets/bd3476d2-3bb3-4b01-ab94-38b2a12df7e9
+### 🎓 Student by attendance · 👩‍💻 Developer by choice · 🎨 Designer by obsession
+
+*Creating technology that blends intelligence, creativity and user experience.*
+
+</div>
+
 
 # 🚀 I Love Building
 
