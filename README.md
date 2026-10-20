@@ -1,9 +1,8 @@
-<div align="center">
+ <div align="center">
 
-<img src="./assets/mahathi.gif" width="100%" alt="Mahathi's 3D animated avatar" />
+# ✨ Mahathi M ✨
+<img width="800" alt="Mahathi animated banner" src="https://github.com/user-attachments/assets/245b8ade-c96f-480a-8f19-2f0ea7d2bb05" />
 
-# ✨Mahathi M✨
-https://github.com/user-attachments/assets/bd3476d2-3bb3-4b01-ab94-38b2a12df7e9
 ### 🎓 Student by attendance · 👩‍💻 Developer by choice · 🎨 Designer by obsession
 
 *Creating technology that blends intelligence, creativity and user experience.*
